@@ -6,7 +6,7 @@ This project is a Redesign of the Own Compant, built using modern web technologi
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Video Demo](#video-demo)
+
 
 ## Description
 A Redesign of the Own Company website created as a project to practice web development skills. The project uses HTML, CSS, JavaScript,React.js, Vite libraries for the development environment.
